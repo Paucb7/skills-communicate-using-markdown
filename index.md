@@ -12,3 +12,7 @@
 var myVar = "Hello World!";
 
 ```
+
+- [x] This is a list 1
+- [x] This is a list 2
+- [ ] This is a list 3
